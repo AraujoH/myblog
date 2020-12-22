@@ -44,9 +44,7 @@ superuser: true
 title: Hugo Santarém
 ---
 
-Hi. I'm Hugo, a researcher at [CEPEL]() working on scenario generation and a M.Sc. student at the Civil Engineering Program at The Federal University of Rio de Janeiro. 
-
-At CEPEL, I work on the generation of energy and water inflow scenarios. These scenarios are fed into a chain of long- and short-term optimization models used in the expansion and operation planning of the Brazilian interconnect electric system. In my Master's I research ways to improve the exploration of the available hydrologic information by the optimization process. 
+Hi. I'm Hugo, a researcher at CEPEL working on scenario generation and a M.Sc. student at the Civil Engineering Program at The Federal University of Rio de Janeiro. 
 
 I love all things RStats. I also do Brazilian Jiu-Jitus and like to pretend that I get the poetry from The Paris Review.  
 
