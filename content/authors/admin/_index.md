@@ -44,6 +44,8 @@ superuser: true
 title: Hugo Santarém
 ---
 
-Hugo Santarém yada yada yada
+Hi. I'm Hugo, a researcher at [CEPEL]() working on scenario generation and a M.Sc. student at the Civil Engineering Program at The Federal University of Rio de Janeiro. 
+
+I love all things RStats
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
