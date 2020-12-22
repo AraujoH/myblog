@@ -22,24 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Researcher
+    company: CEPEL - Electrical Energy Research Center
+    company_url: 'http://www.cepel.br/en_us/'
+    location: Rio de Janeiro, Brazil
+    date_start: '2015-12-14'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        I've been part of the [GEVAZP](http://www.cepel.br/en_us/products/gevazp-energy-and-periodic-streamflow-synthetic-series-generation.htm) team.        
+
 ---
