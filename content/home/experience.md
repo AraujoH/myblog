@@ -29,6 +29,5 @@ experience:
     date_start: '2015-12-14'
     date_end: ''
     description: |2-
-        I've been part of the [GEVAZP](http://www.cepel.br/en_us/products/gevazp-energy-and-periodic-streamflow-synthetic-series-generation.htm) team for the last 5 years. GEVAZP is a scenario generation model for energy and water inflows whose output is fed into the optimzation problem solved by the models used in long, mid and short-term operation planning of the Brazilian grid.
-
+        I've been a part of the [GEVAZP](http://www.cepel.br/en_us/products/gevazp-energy-and-periodic-streamflow-synthetic-series-generation.htm) team for the last 5 years. GEVAZP is a scenario generation model for energy and water inflows whose output is fed into the optimzation problem solved by long- and medium-term operation planning models. GEVAZP's been developed at CEPEL since 1987 and is one of the many official models used by the [National Grid Operation](http://www.ons.org.br/) in the operation planning of the Brazilian interconnected grid. 
 ---
