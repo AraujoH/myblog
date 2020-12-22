@@ -1,6 +1,6 @@
 theme: starter-academic
-title: Academic
-baseurl: ''
+title: Hugo Santarém
+baseurl: 'https://www.santaremhugo.com/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en

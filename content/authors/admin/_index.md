@@ -1,49 +1,49 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include yada yada yada
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: M.Sc. in Civil Engineering
+    institution: Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brazil
+    year: 2021
+  - course: B.Sc. in Environmental and Water Resources Engineering
+    institution: Universidade Federal Fluminense, Niterói, Brazil
+    year: 2014
+  - course: Science Without Borders Exchange Student in Environmental Engineering
+    institution: Rensselaer Polytechnic Institute, Troy, NY
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Energy Systems
+- Water Resources
+- Uncertainty Quantification
+- Infrastructure robustness 
+- Data Analytics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: CEPEL - Electrical Energy Research Center
+  url: http://www.cepel.br/en_us/
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/heyitsmehugo
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AraujoH
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/hugosantarem
 superuser: true
-title: Nelson Bighetti
+title: Hugo Santarém
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hugo Santarém yada yada yada
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
