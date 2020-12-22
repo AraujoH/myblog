@@ -23,28 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+
+- title: Brazil Science without Borders Scholarship	
+  organization: Ministry of Education and Ministry of Science and Technology
+  description: Exchange student at Rensselaer Polytechnic Institute
+  date_start: "2012-01-01"
+  date_end: "2012-12-31"
+
+- certificate_url: https://courses.edx.org/certificates/97cc7e8ad21d4a6aa661a18f82853df7
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-09-23"
+  description: ""
+  organization: edX
+  organization_url: https://www.edx.org
+  title: "18.6501x: Fundamentals of Statistics"
+  url: ""
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/WNSCGTPEXASM
+  date_end: ""
+  date_start: "2017-04-26"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Politics and Economics of International Energy
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+
 ---
