@@ -44,7 +44,7 @@ superuser: true
 title: Hugo Santarém
 ---
 
-Hi. I'm Hugo, a researcher at CEPEL working on scenario generation and a M.Sc. student at the Civil Engineering Program at The Federal University of Rio de Janeiro. 
+I'm Hugo, a researcher at CEPEL working on scenario generation and a M.Sc. student at the Civil Engineering Program at The Federal University of Rio de Janeiro. 
 
 I love all things RStats. I also do Brazilian Jiu-Jitus and like to pretend that I get the poetry from The Paris Review.  
 

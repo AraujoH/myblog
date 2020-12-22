@@ -29,7 +29,11 @@ item:
   description: Exchange student at Rensselaer Polytechnic Institute
   date_start: "2012-01-01"
   date_end: "2012-12-31"
-
+  
+- title: "IV CREA-JR Oscar Niemeyer Award for Scientific and Technical Undergraduate Thesis"
+  organization: "Regional Council of Engineering and Agronomy of Rio de Janeiro (CREA/RJ)"
+  date_start: "2014-06-01"
+  
 - certificate_url: https://courses.edx.org/certificates/97cc7e8ad21d4a6aa661a18f82853df7
   date_end: ""
   date_start: "2020-09-23"
