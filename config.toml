@@ -1,4 +1,4 @@
-baseURL = "santaremhugo.com/"
+baseURL = "https://www.santaremhugo.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Santarém de Araújo"
