@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Hugo Santarém de Araújo"
   orgLocal = "Ithaca, NY"
   description = "Electricity markets are cool."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/bolt-solid.svg"
+  logo = "/img/bolt-solid.svg"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
