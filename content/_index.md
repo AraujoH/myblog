@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Well, well, well... 
+description: A space for thoughts and debates as I navigate graduate school.
 image_left: true
 images:
 - img/me_and_boats.jpeg
