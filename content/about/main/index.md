@@ -6,12 +6,16 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  As I head into my second semester, I am focusing on the ins and outs of electricity markets in the US and they are regulated. The goal is to understand the challenges of ensuring the grid remains flexible and reliable in the face of new technology, new regulation and higher penetration of variable renewable energy. 
+  
+  On the methodology side of things, I'm taking deep dives into optimization theory and stochastic processes. The former is necessary to model sequential decision-making processes in the search for the optimal policy. The latter is crucial to understand and model the uncertainty we must deal with when making decisions.
+  
+  On the programming front, I am [JuMPing](https://jump.dev/JuMP.jl/stable/) on the [Julia Language](https://julialang.org/) bandwagon. 
+  
 show_outro: false
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-mug-hot"></i> If you like anything you see here and you'd like to, you can buy me coffee
 ---
 
 ** index doesn't contain a body, just front matter above.
