@@ -10,8 +10,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent talks
     text_link_url: /talk/
-description: |
-  "Excuse me, would you have a minute to talk about ..."
+description: 
 layout: list
 show_author_byline: true
 show_button_links: true

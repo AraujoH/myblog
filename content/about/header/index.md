@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 I'm a Civil and Environmental Engineering Ph.D. student who joined the [Mays Group](https://mays.cee.cornell.edu/) at the [School of Civil and Environmental Engineering](https://www.cee.cornell.edu/cee) at Cornell University in August 2021.
 
-I study how electricity market design and energy policy can be brought together to aid the transition to a low-carbon economy. To help me accomplish that, I turn to optimization and stochastic process to understand how decisions can be made uncertainty. 
+I study how electricity market design and energy policy can be brought together to aid the transition to a low-carbon economy. To help me accomplish that, I turn to optimization and stochastic processes to understand how decisions can be made uncertainty. 
 
 Before, I worked for 5 years as a researche scientist at CEPEL, the [Brazilian Electrical Energy Research Center](http://www.cepel.br/), in Rio de Janeiro, Brazil. At CEPEL, I was fortunate to join the [GEVAZP](http://srvlumis02.cepel.br/en_us/products/gevazp-energy-and-periodic-streamflow-synthetic-series-generation.htm) project to work on scenario generation for energy and water inflows. My time at CEPEL shaped and fostered my interests in power systems and the roles they play in the search for a more sustainable future.
 
