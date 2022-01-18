@@ -117,7 +117,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "My Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]
@@ -125,6 +125,7 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 4
+
 
   # Configure footer  
   [[menu.footer]]
