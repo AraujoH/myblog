@@ -1,7 +1,7 @@
 ---
-author: Hugo Santarém de Araújo
+author: The R Markdown Team @RStudio
 cascade:
-  author: Hugo Santarém de Araújo
+  author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  My talks
+  This is a list for your talks, workshops, or other events with a time, date, and place.
 layout: list
 show_author_byline: true
 show_button_links: true

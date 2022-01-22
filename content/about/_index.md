@@ -2,9 +2,9 @@
 cascade:
   headless: true
 description: |
-  Civil and Environmental Engineering student studying how electricity market design and energy policy can aid the transition to a low-carbon economy
-show_header: true 
-sidebar_left: true
+  A website template for Hugo developed by RStudio & Formspree and available for free.
+show_header: true
+sidebar_left: false
 title: About
 ---
 
