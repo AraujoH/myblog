@@ -2,10 +2,9 @@
 cascade:
   headless: true
 description: |
-  Studying how electricity market design and energy policy can aid the transition to a low-carbon economy.
-show_header: false
+show_header: true
 sidebar_left: true
-title: About
+title: Bio
 ---
 
 ** index doesn't contain a body, just front matter above.
